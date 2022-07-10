@@ -1,0 +1,19 @@
+[
+  {
+    "registrant": "Ultreon",
+    "site": "https://raw.githubusercontent.com/Ultreon/gitweb-sites/main/",
+    "registrations": [
+      {"*": "*"}
+    ]
+  },
+  {
+    "registrant": "Jab125",
+    "site": "https://raw.githubusercontent.com/Jab125/gitweb-sites/main/",
+    "registrations": [
+      {"test": "extension"},
+      {"test.official": "domain"},
+      {"testing.official": "domain"},
+      {"welcome.official/test": "directory"}
+    ]
+  }
+]
