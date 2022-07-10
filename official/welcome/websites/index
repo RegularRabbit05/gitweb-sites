@@ -30,6 +30,16 @@ padding=10
 padding=10
 text=&cNone are currently available
 
+#header
+text=&f&lAvailable Test Websites
+scale=2
+align=left
+padding=10
+
+#paragraph
+padding=10
+text=&eofficial.test
+
 #footer
 title=GitWeb
 sub-title=Copyright (c) MrCrayfish
