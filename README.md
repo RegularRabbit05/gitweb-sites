@@ -19,7 +19,9 @@ This is the repository containing the community of user created sites (referred 
 ## Index Domain Suffixes
 - .official - Required to be used only by moderation team of **GitWeb**!
     - *for subsites/subindexes - Standard multiple use case suffix*
-    
+
+- .test - Required to be used to test GitWeb modules added by the Devices mod or addons!
+
 - .app - Required to be used as information indexes on Device Mod addons!
     - *for subsites/subindexes - Standard multiple use case suffix*
     
